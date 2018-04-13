@@ -3,12 +3,35 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///tmp/mozilla_root0/CS-369-master.zip" added="2018-04-13T15:33:33Z" modified="2018-04-13T15:33:33Z" visited="2018-04-13T15:33:33.298628Z">
+  <bookmark href="file:///tmp/mozilla_root0/CS-369-master.zip" added="2018-04-13T15:33:33Z" modified="2018-04-13T15:33:33Z" visited="2018-04-13T15:33:33Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="application/zip"/>
         <bookmark:applications>
           <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2018-04-13T15:33:33Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/local/bin/rails" added="2018-04-13T15:55:27Z" modified="2018-04-13T15:55:27Z" visited="2018-04-13T15:55:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>gedit</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="gedit" exec="&apos;gedit %u&apos;" modified="2018-04-13T15:55:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///root/mywork" added="2018-04-13T16:25:05Z" modified="2018-04-13T16:25:05Z" visited="2018-04-13T16:25:06.170219Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Sublime Text" exec="&apos;sublime_text %u&apos;" modified="2018-04-13T16:25:05Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

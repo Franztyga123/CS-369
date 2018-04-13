@@ -32,8 +32,8 @@ discovery.addons.mozilla.org:HPKP	0	17611	1526836425324,1,1,WoiWRyIOVNa9ihaBciRS
 cookiex.ngd.yahoo.com:HSTS	0	17611	1553168784065,1,0
 pixel.facebook.com:HSTS	4	17634	1539178744269,1,0
 askubuntu.com:HSTS	3	17634	1539185316248,1,0
-www.youtube.com:HSTS	8	17634	1555168162697,1,0
-www.facebook.com:HSTS	9	17634	1539185697743,1,0
+www.youtube.com:HSTS	8	17634	1555169962950,1,0
+www.facebook.com:HSTS	9	17634	1539186939737,1,0
 gorails.com:HSTS	1	17615	1537537577446,1,1
 cdn.syndication.twimg.com:HSTS	4	17615	2153124093041,1,0
 api-iam.intercom.io:HSTS	0	17611	1553210787917,1,1
@@ -51,12 +51,12 @@ ads.yahoo.com:HSTS	2	17634	1555162398869,1,0
 edge.static-assets.top.comcast.net:HSTS	0	17612	1553219334657,1,0
 mattbrictson.com:HSTS	0	17612	2152822868256,1,0
 img04.en25.com:HSTS	0	17611	1521656781392,1,1
-avatars1.githubusercontent.com:HSTS	7	17634	1555190155431,1,0
+avatars1.githubusercontent.com:HSTS	7	17634	1555192120468,1,0
 identity.netlify.com:HSTS	0	17612	1553235467473,1,0
 www.kali.org:HSTS	1	17611	1537201953121,1,0
 www.reddit.com:HSTS	1	17612	1537239076731,1,1
-api.github.com:HSTS	8	17634	1555169582849,1,1
-github.com:HSTS	8	17634	1555169607487,1,1
+api.github.com:HSTS	8	17634	1555170559136,1,1
+github.com:HSTS	8	17634	1555170525822,1,1
 extensions.gnome.org:HSTS	0	17611	1521666939039,1,1
 um.simpli.fi:HSTS	6	17616	1585139907960,1,1
 git-scm.com:HSTS	0	17634	1555163615088,1,0
@@ -64,10 +64,10 @@ heroku.com:HSTS	0	17634	1555168686866,1,1
 polaris.xfinity.com:HSTS	0	17612	1553223334322,1,0
 self-repair.mozilla.org:HSTS	13	17634	1555149837973,1,1
 fbcdn.net:HSTS	6	17634	1555166830367,1,1
-live.github.com:HSTS	0	17634	1555169560549,1,0
+live.github.com:HSTS	0	17634	1555170559408,1,0
 laravel-china.org:HSTS	0	17612	1537459589486,1,0
 coderjourney.com:HSTS	0	17634	1539382077763,1,1
-dashboard.heroku.com:HSTS	0	17634	1555169513610,1,1
+dashboard.heroku.com:HSTS	0	17634	1555170712696,1,1
 q.stripe.com:HSTS	0	17611	1553193460849,1,1
 telex.heroku.com:HSTS	0	17634	1555168915916,1,0
 pr-bh.ybp.yahoo.com:HSTS	1	17612	1553223090774,1,0
@@ -111,7 +111,7 @@ devcenter-assets3.herokucdn.com:HSTS	0	17634	1555168937550,1,0
 www.google.com:HSTS	6	17634	1523719709919,1,0
 js.braintreegateway.com:HSTS	1	17615	1553521569672,1,0
 m.stripe.network:HSTS	2	17616	1553616427120,1,1
-collector.githubapp.com:HSTS	8	17634	1555169607368,1,0
+collector.githubapp.com:HSTS	8	17634	1555170558937,1,0
 superuser.com:HSTS	0	17611	1537205505591,1,0
 openclipart.org:HSTS	0	17634	1555165818354,1,0
 ubuntu.stackexchange.com:HSTS	1	17612	1537241289559,1,0
@@ -145,5 +145,5 @@ analytics.twitter.com:HSTS	2	17634	2154771455819,1,0
 a.disquscdn.com:HSTS	1	17612	1521704625836,1,1
 docs.docker.com:HSTS	0	17634	1539383370465,1,0
 accounts.google.com:HSTS	6	17634	1555168673508,1,1
-shavar.services.mozilla.com:HSTS	12	17634	1555168610907,1,1
+shavar.services.mozilla.com:HSTS	12	17634	1555170413007,1,1
 services.addons.mozilla.org:HPKP	7	17634	1528798216780,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
